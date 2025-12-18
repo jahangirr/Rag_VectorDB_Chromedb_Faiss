@@ -1,0 +1,8 @@
+langchain_community
+langchain
+pydantic
+langchain_core
+streamlit 
+bs4
+chromadb
+faiss-cpu
