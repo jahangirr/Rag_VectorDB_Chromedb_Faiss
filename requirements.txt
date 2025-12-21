@@ -6,3 +6,4 @@ streamlit
 bs4
 chromadb
 faiss-cpu
+langchain_classic
