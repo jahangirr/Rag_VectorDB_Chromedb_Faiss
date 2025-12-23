@@ -7,3 +7,5 @@ bs4
 chromadb
 faiss-cpu
 langchain_classic
+wikipedia
+arxiv
