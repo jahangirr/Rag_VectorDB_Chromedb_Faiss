@@ -9,3 +9,6 @@ faiss-cpu
 langchain_classic
 wikipedia
 arxiv
+langchain-groq
+groq
+beautifulsoup4
